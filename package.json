@@ -1,0 +1,15 @@
+{
+  "name": "redux-mern-fullstack-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd client && yarn start",
+    "build": "cd client && yarn  build",
+    "test": "cd client && yarn test",
+    "eject": "cd client && yarn eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
